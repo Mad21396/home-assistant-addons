@@ -1,4 +1,3 @@
----
-name: Addons by Mad21396
-url: https://github.com/t0bst4r/home-assistant-addons
-maintainer: Tobias Glatthar
+name: Matter Hub (Custom Fork)
+url: https://github.com/Mad21396/home-assistant-addons
+maintainer: Mad21396
